@@ -1,0 +1,37 @@
+<?php
+
+return [
+    'app' => 'PFC',
+    'home' => 'Home',
+    'login' => 'Login',
+    'logout' => 'Salir',
+    'resetPword' => 'Resetear Contraseña',
+    'toggleNav' => 'Toggle Navigation',
+    'profile' => 'Perfil',
+    'editProfile' => 'Editar Perfil',
+    'createProfile' => 'Crear Perfil',
+    'adminUserList' => 'Administración de usuarios',
+    'adminEditUsers' => 'Editar usuarios',
+    'adminNewUser' => 'Crear nuevo usuario',
+    'calendar' => 'Calendario',
+    'adminDashboard' => 'Administrador Dashboard',
+    'dashStatistics' => 'Estadísticas',
+    'tasks' => 'Tareas',
+    'task' => 'Tarea',
+    'taskForm' => 'Formulario',
+    'projects' => 'Proyectos',
+    'projectsSub' => 'Listado de proyectos',
+    'projectDetail' => 'Detalles del Proyecto',
+    'users' => 'Usuarios',
+    'admin' => 'Admin',
+    'usersManagement' => 'Administración Usuarios',
+    'usersDescription' => 'Página para la administracion de los usuarios de la plataforma',
+    'usersKeywords' => '',
+    'create' => 'Crear',
+    'messages' => 'Mensajes',
+    'compose' => 'Redactar',
+    'notifications' => 'Notificaciones',
+    'profiles' => 'Perfiles',
+    'update' => 'Editar'
+
+];

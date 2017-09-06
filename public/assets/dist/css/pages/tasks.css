@@ -1,0 +1,26 @@
+.progress,
+.progress-bar {
+    box-shadow: none;
+}
+
+.progress-mini {
+    margin-top: 5px;
+}
+
+.progress-mini,
+.progress-mini .progress-bar {
+    height: 5px;
+    margin-bottom: 0;
+}
+
+.table a.table-link.danger {
+    color: #fe635f;
+}
+.table a.table-link.danger:hover {
+    color: #dd504c;
+}
+
+.task-members img.img-circle {
+    width: 32px;
+    height: 32px;
+}

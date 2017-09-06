@@ -1,0 +1,31 @@
+.stat-percent {
+    float: right;
+}
+
+.progress,
+.progress-bar {
+    box-shadow: none;
+}
+
+.progress-mini {
+    margin-top: 5px;
+}
+.progress-mini,
+.progress-mini .progress-bar {
+    height: 5px;
+    margin-bottom: 0;
+}
+
+/* TEAMS */
+.team-members {
+    margin: 10px 0;
+}
+.team-members img.img-circle {
+    width: 42px;
+    height: 42px;
+    margin-bottom: 5px;
+}
+
+[class="col-lg-4"]{
+    min-height:500px;
+}

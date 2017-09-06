@@ -1,0 +1,71 @@
+.profile-label, .profile-since {
+    text-align: center;
+    padding: 5px 0;
+}
+
+.profile-label .label {
+    padding: 5px 15px;
+    font-size: 1em;
+    font-weight: 400;
+    border-radius: 0 0 0 0;
+    display: inline;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+}
+
+.user-header{
+    padding: 10px;
+    text-align: center;
+}
+
+.profile-details {
+    padding: 15px 0;
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+    margin: 15px 0;
+}
+
+.profile-details ul {
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.fa-ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+.fa-li{
+    position: initial;
+}
+
+.profile-details ul > li {
+    margin: 3px 0;
+    line-height: 1.5;
+}
+
+.profile-user-details {
+    position: relative;
+    padding: 4px 0;
+}
+
+.profile-user-details .profile-user-details-label {
+    float: left;
+    bottom: 0;
+    font-weight: bold;
+    left: 0;
+    position: absolute;
+    text-align: right;
+    top: 0;
+    width: 110px;
+    padding-top: 4px;
+}
+
+.profile-user-details .profile-user-details-value {
+    margin-left: 120px;
+}

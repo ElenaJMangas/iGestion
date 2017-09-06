@@ -1,0 +1,7 @@
+[class*="control-group col-"]{
+    padding-left: 0;
+}
+
+.textarea, .input-group.select, .input-group.select select, .bootstrap-tagsinput {
+    width: 100%;
+}
